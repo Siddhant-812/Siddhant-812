@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Siddhant Gole.
+- 🔭 I’m currently working in the field of Computer Vision and working on Open Set Recognition of Remote Sensing Images
+- 👯 I’m looking to contribute to industry in the form of internships or part-time roles.
 
 <!--
 **Siddhant-812/Siddhant-812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
